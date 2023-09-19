@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Remember Plus (ver.2)
 
 <!--
 
